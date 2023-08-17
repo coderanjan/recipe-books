@@ -1,0 +1,17 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin:20px;
+}
+
+h1{
+    text-align:center;
+}
+
+#recipe-list{
+    list-style: none;
+    padding:0;
+}
+
+
+
+
